@@ -884,6 +884,8 @@ main:not(.tours) {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 
 .footer_left {
